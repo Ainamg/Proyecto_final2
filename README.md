@@ -30,25 +30,25 @@ El dataset contiene información sobre ventas de un comercio. Está compuesto po
 
 🧩 Primer dataset: Datos de la factura y cliente.
 
-invoice_no: Número de factura o transacción. 
-customer_id: Código único del cliente que realizó la compra.
+- invoice_no: Número de factura o transacción. 
+- customer_id: Código único del cliente que realizó la compra.
 
 👥 Segundo dataset: Datos de las ventas
 
-region: Región geográfica de la venta.
-country: País donde se realizó la venta.
-item type: Tipo de producto
-sales channel: Canal de venta.
-order priority: Prioridad del pedido.
-order date: Fecha en la que se realizó el pedido.
-order id: Id del pedido.
-ship date: Fecha venta.
-units sold: Unidades vendidas.
-unit price: Precio unitario del producto.
-unit cost: Coste unitario del producto.
-total revenue: Total ingreso.
-total cost: Total coste.
-total profit: Beneficio total.
+- region: Región geográfica de la venta.
+- country: País donde se realizó la venta.
+- item type: Tipo de producto
+- sales channel: Canal de venta.
+- order priority: Prioridad del pedido.
+- order date: Fecha en la que se realizó el pedido.
+- order id: Id del pedido.
+- ship date: Fecha venta.
+- units sold: Unidades vendidas.
+- unit price: Precio unitario del producto.
+- unit cost: Coste unitario del producto.
+- total revenue: Total ingreso.
+- total cost: Total coste.
+- total profit: Beneficio total.
 
 ⚙️ Instalación y configuración El proyecto se ha desarrollado en Python utilizando Pandas, NumPy, Matplotlib, Seaborn y Jupyter Notebook, dentro de Visual Studio Code.
 
