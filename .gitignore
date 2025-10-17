@@ -1,3 +1,9 @@
+# Añadimos el archivo requirements 
+requirements.txt
+
+# Añadimos el archivo .DS_Store
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
