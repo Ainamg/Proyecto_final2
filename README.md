@@ -50,7 +50,9 @@ El dataset contiene información sobre ventas de un comercio. Está compuesto po
 - total cost: Total coste.
 - total profit: Beneficio total.
 
-⚙️ Instalación y configuración El proyecto se ha desarrollado en Python utilizando Pandas, NumPy, Matplotlib, Seaborn y Jupyter Notebook, dentro de Visual Studio Code.
+⚙️ Instalación y configuración 
+
+El proyecto se ha desarrollado en Python utilizando Pandas, NumPy, Matplotlib, Seaborn y Jupyter Notebook, dentro de Visual Studio Code.
 
 🔧 Pasos para la instalación
 
