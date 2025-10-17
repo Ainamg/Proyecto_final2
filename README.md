@@ -5,8 +5,8 @@
 
 El presente proyecto tiene como objetivo aplicar los conocimientos adquiridos durante el curso de Data & Analytics en el análisis exploratorio de datos (EDA) y la creación de un dashboard operativo que aporte valor a la toma de decisiones comerciales.
 Para ello, se ha trabajado con dos conjuntos de datos de ventas procedentes de diferentes fuentes:
-- Sales Records.xlsx – contiene información detallada de transacciones de ventas, incluyendo datos de país, categoría de producto, unidades vendidas, precios y beneficios.
-- Online Retail.xlsx – dataset con información de facturas y cliente.
+- Sales Records.xlsx – contiene información detallada de transacciones de ventas, incluyendo datos de país, categoría de producto, unidades vendidas, precios y beneficios. (https://www.kaggle.com/datasets/okhiriadaveoseghale/100000-sales-records/data)
+- Online Retail.xlsx – dataset con información de facturas y cliente. (https://archive.ics.uci.edu/dataset/502/online+retail+ii)
 
 Tras un proceso de limpieza, transformación y unificación de ambas fuentes, se obtuvo un conjunto final con más de 50.000 registros y 20 columnas, preparado para el análisis descriptivo y estadístico.
 
