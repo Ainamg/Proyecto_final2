@@ -69,11 +69,11 @@ El proyecto se ha desarrollado en Python utilizando Pandas, NumPy, Matplotlib, S
 
 🧹 Proceso de limpieza y transformación Durante la etapa de preparación de los datos realicé las siguientes tareas:
 
-Estandaricé nombres de columnas (minúsculas, sin espacios ni puntos).
-Corregí formatos numéricos y de fechas.
-Creé nuevas variables derivadas de la fecha (year, month, day, quarter).
-Identifiqué y traté valores nulos y outliers.
-Documenté todas las funciones de limpieza en el archivo sp_limpieza.py dentro de la carpeta SRC.
+- Estandaricé nombres de columnas (minúsculas, sin espacios ni puntos).
+- Corregí formatos numéricos y de fechas.
+- Creé nuevas variables derivadas de la fecha (year, month, day, quarter).
+- Identifiqué y traté valores nulos y outliers.
+- Documenté todas las funciones de limpieza en el archivo sp_limpieza.py dentro de la carpeta SRC.
 
 📁 Archivos generados: 
 - datos.xlsx
