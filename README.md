@@ -84,16 +84,16 @@ El proyecto se ha desarrollado en Python utilizando Pandas, NumPy, Matplotlib, S
 
 1️⃣ Columnas categóricas
 
-Detecté que no existía una categoría predominante en ninguna variable.
-No había nulos.
-Creé visualizaciones de distribución mediante Seaborn y Matplotlib.
-Guardé las funciones en sp_eda.py y sp_visualizacion.py.
+- Detecté que no existía una categoría predominante en ninguna variable.
+- No había nulos.
+- Creé visualizaciones de distribución mediante Seaborn y Matplotlib.
+- Guardé las funciones en sp_eda.py y sp_visualizacion.py.
 
 2️⃣ Columnas numéricas
 
-Identifiqué outliers en variables como total_revenue, total_cost, total_profit.
-No pude tratar los outliers porque en todos los casos eran superiores al 50%.
-Los nulos los cambié por "unknown".
+- Identifiqué outliers en variables como total_revenue, total_cost, total_profit.
+- No pude tratar los outliers porque en todos los casos eran superiores al 50%.
+- Los nulos los cambié por "unknown".
 
 📊 Métricas de marketing calculadas
 
@@ -122,14 +122,14 @@ Calculé métricas clave para evaluar las ventas:
 
 💻 Tecnologías utilizadas
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
-Visual Studio Code
-Excel
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Visual Studio Code
+- Excel
 
 🧩 Estructura del repositorio
 
