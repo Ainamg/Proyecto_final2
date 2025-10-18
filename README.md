@@ -103,7 +103,7 @@ Calculé métricas clave para evaluar las ventas:
 - KPIS de collumnas numéricas.
 - KPIs de clientes y pedidos.
 - KPIS de fechas.
-- ÑPIS combinados.
+- KPIS combinados.
 
 📊 Dashboard
 
