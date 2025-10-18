@@ -52,7 +52,7 @@ El dataset contiene información sobre ventas de un comercio. Está compuesto po
 
 ⚙️ Instalación y configuración 
 
-El proyecto se ha desarrollado en Python utilizando Pandas, NumPy, Matplotlib, Seaborn y Jupyter Notebook, dentro de Visual Studio Code.
+El proyecto se ha desarrollado en Python utilizando Pandas, NumPy, Matplotlib, Seaborn y Jupyter Notebook, dentro de Visual Studio Code. Y por otro lado, Excel.
 
 🔧 Pasos para la instalación
 
